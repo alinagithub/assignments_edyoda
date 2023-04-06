@@ -1,0 +1,11 @@
+{
+    "users": [
+            {
+            "Full Name": "alina",
+            "Phone Number": "1234567890",
+            "Email": "alina@gamil.com",
+            "Address": "srinagar",
+            "Password": "password123"
+        }
+    ]
+}

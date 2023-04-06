@@ -1,0 +1,36 @@
+{
+    "items": [
+        {
+            "FoodID": "1",
+            "Name": "Tandoori Chicken",
+            "Quantity": "4",
+            "Price": "240",
+            "Discount": "20",
+            "Stock": "10"
+        },
+        {
+            "FoodID": "2",
+            "Name": "Vegan Burger",
+            "Quantity": "1",
+            "Price": "320",
+            "Discount": "10",
+            "Stock": "5"
+        },
+        {
+            "FoodID": "3",
+            "Name": "Pizza",
+            "Quantity": "200",
+            "Price": "250.0",
+            "Discount": "10",
+            "Stock": "1500"
+        },
+        {
+            "FoodID": "4",
+            "Name": "Burger",
+            "Quantity": "200",
+            "Price": "60.0",
+            "Discount": "6.0",
+            "Stock": "600"
+        }
+    ]
+}
